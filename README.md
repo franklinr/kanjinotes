@@ -1,1 +1,3 @@
-# kanjinotes
+# Kanjinotes
+
+Kanjinotes is a notepad combined with a Japanese dictionary. Often when you are studying Japanese, you want to include definitions, kanjis, and readings in your notes. This app makes it easy to save this information. You can search the dictionary by writing a kanji character and then finding words that include that character. You can also search for words using English words, hiragana, and kanji using the search bar. Once you find a word, clicking on its kanji will allow you to save it in your Notes or copy it to the search bar for further searches. By clicking on the add button on the button bar, it is possible to add empty notes to the notepad for your own comments. Notes can be reordered and deleted by pressing the edit button on the top button bar. A collection of notes (a note file) can be shared with others. A new note file can be created from data in the clipboard.
